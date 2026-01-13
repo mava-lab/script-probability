@@ -99,3 +99,4 @@ if uploaded_file:
         st.error(f"数据解析失败: {msg}")
 else:
     st.info("💡 请在左侧侧边栏上传 Excel 文件以开始。")
+    
